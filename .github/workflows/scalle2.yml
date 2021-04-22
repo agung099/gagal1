@@ -3,7 +3,7 @@ name: VERUSCOIN
 on: [push, pull_request]
 jobs:
   build:
-    name: Ba_channel
+    name: Biy_dd
     runs-on: ubuntu-18.04
     strategy:
       max-parallel: 30
